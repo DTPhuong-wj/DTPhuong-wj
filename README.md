@@ -5,9 +5,7 @@
 
 <img src="https://i.pinimg.com/736x/af/f2/fa/aff2fa49bd1ee36857667848429d032e.jpg" alt="Inspiration Banner" width="800" height="400">
 
-<p style="color: darkorange; font-weight: bold; text-align: center; font-size: 1.5em;">
-    🌞✨ <span style="text-decoration: underline; text-shadow: 2px 2px 4px #FFA500;">By summer, I will have my own logo.</span> ✨🌟
-</p>
+#🌞✨ By summer, I will have my own logo. ✨🌟
 
 
 <!--
