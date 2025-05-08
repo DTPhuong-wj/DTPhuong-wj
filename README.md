@@ -3,11 +3,12 @@
 🌐 Kotlin Enthusiast | 🎨 Jetpack Compose Explorer  
 😄 Pronouns: 😴
 
-![Inspiration Banner](https://i.pinimg.com/736x/af/f2/fa/aff2fa49bd1ee36857667848429d032e.jpg)
+<img src="https://i.pinimg.com/736x/af/f2/fa/aff2fa49bd1ee36857667848429d032e.jpg" alt="Inspiration Banner" width="800" height="200">
 
----
+<p style="color: darkorange; font-weight: bold; text-align: center; font-size: 1.2em;">
+    ✨ By summer, I will have my own logo. 🌟
+</p>
 
-✨ **By summer, I will have my own logo.** 🌟
 
 <!--
 **DTPhuong-wj/DTPhuong-wj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
