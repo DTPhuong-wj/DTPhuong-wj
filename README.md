@@ -3,8 +3,6 @@
 🌐 Kotlin Enthusiast | 🎨 Jetpack Compose Explorer  
 😄 Pronouns: 😴
 
-![Logo Inspiration](https://i.pinimg.com/736x/af/f2/fa/aff2fa49bd1ee36857667848429d032e.jpg)
-
 # **Project: Vietnamese Sign Language** 🚀
 
 ---
@@ -17,6 +15,9 @@
 > _A future where communication has no boundaries._
 
 ---
+
+![Logo Inspiration](https://i.pinimg.com/736x/af/f2/fa/aff2fa49bd1ee36857667848429d032e.jpg)
+
 
 <!--
 **DTPhuong-wj/DTPhuong-wj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
