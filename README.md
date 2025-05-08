@@ -3,6 +3,13 @@
 🌐 Kotlin Enthusiast | 🎨 Jetpack Compose Explorer  
 😄 Pronouns: 😴
 
+![Inspiration Banner](https://via.placeholder.com/800x200)
+
+## 🌟 A World of Possibilities Awaits
+
+Here, you’ll find ideas that spark curiosity and stories that inspire change.  
+Let’s create a ripple effect of growth, positivity, and progress. 🌊
+
 <!--
 **DTPhuong-wj/DTPhuong-wj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
