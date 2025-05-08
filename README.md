@@ -3,7 +3,11 @@
 🌐 Kotlin Enthusiast | 🎨 Jetpack Compose Explorer  
 😄 Pronouns: 😴
 
-![Inspiration Banner]([https://via.placeholder.com/800x200](https://i.pinimg.com/736x/af/f2/fa/aff2fa49bd1ee36857667848429d032e.jpg))
+![Inspiration Banner](https://i.pinimg.com/736x/af/f2/fa/aff2fa49bd1ee36857667848429d032e.jpg)
+
+---
+
+✨ **By summer, I will have my own logo.** 🌟
 
 <!--
 **DTPhuong-wj/DTPhuong-wj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
