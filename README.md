@@ -3,9 +3,9 @@
 🌐 Kotlin Enthusiast | 🎨 Jetpack Compose Explorer  
 😄 Pronouns: 😴
 
-<img src="https://i.pinimg.com/736x/af/f2/fa/aff2fa49bd1ee36857667848429d032e.jpg" alt="Inspiration Banner" width="800" height="200">
+<img src="https://i.pinimg.com/736x/af/f2/fa/aff2fa49bd1ee36857667848429d032e.jpg" alt="Inspiration Banner" width="800" height="400">
 
-<p style="color: darkorange; font-weight: bold; text-align: center; font-size: 1.2em;">
+<p style="color: darkorange; font-weight: bold; text-align: center;">
     ✨ By summer, I will have my own logo. 🌟
 </p>
 
