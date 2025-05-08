@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌐 Kotlin Enthusiast | 🎨 Jetpack Compose Explorer
+🌐 Kotlin Enthusiast | 🎨 Jetpack Compose Explorer  
 😄 Pronouns: 😴
 
 <!--
