@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+🌐 Kotlin Enthusiast | 🎨 Jetpack Compose Explorer
+😄 Pronouns: 😴
+
 <!--
 **DTPhuong-wj/DTPhuong-wj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
