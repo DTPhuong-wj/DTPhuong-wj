@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 🌐 Kotlin Enthusiast | 🎨 Jetpack Compose Explorer  
-🎐 React | 🎏 JavaScript | 🎎 Next.js
+🎐 React | 🎏 JavaScript | 🎎 Next.js  
 😄 Pronouns: 😴
 
 # **Project: Vietnamese Sign Language** 🚀
